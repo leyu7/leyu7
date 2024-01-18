@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2>Hi there 👋</h2>
 
 <p align="center">I’m currently learning ...</p>
 
