@@ -4,7 +4,7 @@
 
 <p align="center" style="display:flex; justify-content: center; flex-wrap: wrap;">
 <span></span>
-<img alt="Java" src="https://img.shields.io/badge/java-%23424c50?style=for-the-badge&logoColor=white"/><span> </span>
+<img alt="Java" src="https://img.shields.io/badge/java-%233d3b4f?style=for-the-badge&logoColor=white"/><span> </span>
 <img alt="SQL" src="https://img.shields.io/badge/sql-%2350616d?style=for-the-badge&logo=sql&logoColor=white"/><span></span>
 <img alt="Python" src="https://img.shields.io/badge/python-%234c8dae?style=for-the-badge&logo=python&logoColor=white"/><span></span>
 <img alt="Haskell" src="https://img.shields.io/badge/haskell-%236b6882.svg?style=for-the-badge&logo=haskell&logoColor=white"/><span></span>
