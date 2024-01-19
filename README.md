@@ -14,8 +14,9 @@
 <img alt="JS" src="https://img.shields.io/badge/javascript-%2375878a.svg?style=for-the-badge&logo=javascript&logoColor=white"/><span></span>
 </p>
 
-
-![Most Used Languages](https://github-readme-stats-leyu7s-projects.vercel.app/api/top-langs/?username=leyu7)
+<p align="center">
+<img src="https://github-readme-stats-leyu7s-projects.vercel.app/api/top-langs/?username=leyu7&layout=compact&langs_count=10"/>
+</p>
 
 <!--
 **leyu7/leyu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
