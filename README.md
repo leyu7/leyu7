@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-leyu7s-projects.vercel.app/api/top-langs/?username=leyu7&layout=compact&langs_count=10"/>
+<img src="https://github-readme-stats-leyu7s-projects.vercel.app/api/top-langs/?username=leyu7&layout=donut&langs_count=10"/>
 </p>
 
 <!--
